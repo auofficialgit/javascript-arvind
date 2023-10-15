@@ -30,4 +30,18 @@ let stringSomeNumber = String(someNumber)
 
 let value=4
 let negValue= -value
-console.log(negValue);
+//console.log(negValue);
+
+let str1="Arvind"
+let str2=" Upadhyay"
+let str3=str1+str2
+// console.log(str3);
+// console.log(" ");
+
+let num1=100
+num1++;
+
+// console.log(num1);
+++num1;
+// console.log(num1);
+
